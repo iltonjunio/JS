@@ -2,6 +2,9 @@ body {
     background-color: rgb(65, 65, 173);
     text-align: justify;
     color: aliceblue;
-    font-size: medium;
+    font-size: large;
     font: normal 20pt arial;
+}
+p{
+    color: brown;
 }
